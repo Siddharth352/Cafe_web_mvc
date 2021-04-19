@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+html {
+  font-family: sans-serif !important;
+  -webkit-text-size-adjust: 100% !important;
+      -ms-text-size-adjust: 100% !important;
+}
+body {
+  margin: 0 !important;
+  background: url('https://static-cse.canva.com/blob/152423/1.-mage-by-Rodion-Kutsaev-via-Unsplash.fc9e1c9f.jpg') center no-repeat;
+  background-size: 100 !important;
+  width :100% !important;
+  background-color: black !important;
+
+}
+h1{
+	color: black !important;
+	font-size: 350% !important;
+	font-weight: bold;
+}
+h3{
+	font-size: 17px !important;
+	font-weight: bold !important;
+}

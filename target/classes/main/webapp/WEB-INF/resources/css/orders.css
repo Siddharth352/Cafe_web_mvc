@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+html {
+  font-family: sans-serif !important;;
+  -webkit-text-size-adjust: 100% !important;;
+      -ms-text-size-adjust: 100% !important;;
+}
+body {
+  margin: 0;
+  padding-left: 10px !important;;
+  padding-right: 10px !important;;
+  background-color: #63C5DA !important ;
+  
+  
+
+}
+h2{
+	color:white !important;;
+	
+}
+p{
+	font-size: 17px;
+	 font-weight: bold;
+}
+.mid{
+	 background: url('https://st2.depositphotos.com/1006318/10673/v/950/depositphotos_106737626-stock-illustration-delivery-boy-ride-scooter-motorcycle.jpg') center no-repeat;
+	
+	
+	background-size: 100 !important;;
+  width :100% !important;;
+ 
+  margin-top:50px !important;;
+	
+}
+.down{
+   background-color: white !important;;
+  
+}
+.heading{
+	margin-top:10px !important;;
+	 background-color: black !important;;
+}

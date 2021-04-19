@@ -1,0 +1,37 @@
+html {
+  font-family: inherit !important;
+  -webkit-text-size-adjust: 100% !important;
+      -ms-text-size-adjust: 100% !important;
+    
+}
+.middle {
+ 
+  background-color: #C5C6C7 !important;
+  padding-left: 10px !important;
+  padding-bottom: 10px !important;
+ 
+}
+h1{
+	color: white !important;
+}
+p{
+	font-size: 17px !important;
+	 font-weight: bold !important;
+}
+.outer{
+	padding-top:10px !important;
+	background-color: #1F2833 !important;
+
+	
+  
+	
+}
+body{
+	background-color: #1F2833 !important;
+	padding-left: 21px !important;
+	padding-right: 21px !important;
+	padding-bottom: 30px !important;
+	position: absolute !important;
+		color: black !important;
+	
+}

@@ -1,0 +1,20 @@
+html {
+  font-family: sans-serif !important;
+  -webkit-text-size-adjust: 100% !important;
+      -ms-text-size-adjust: 100% !important;
+}
+body {
+  margin: 0 !important;
+  background: url('https://images.pexels.com/photos/1762851/pexels-photo-1762851.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260') center no-repeat;
+  background-size: 100 !important;
+  width :100% !important;
+
+}
+h1{
+	color:white !important;
+	font-size: 350% !important;
+}
+button{
+	
+	
+}
