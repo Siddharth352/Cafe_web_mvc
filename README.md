@@ -3,8 +3,8 @@ A Cafe website based on spring web mvc using java for backend , jsp pages for fr
 
 Into:-
 
-It is a Cafe website named cheers cafe in which user can rgister itself and then get access to the menu page where with items and their corresponding prices will be there and user can select item for ordering and submit the order and then  a non refreshable window open which shows the generated bill reciept .
-And user can also view all its order that is placed till today with date and time stamp and complete order detail.
+It is a Cafe website named cheers cafe in which one can register itself and then get access to the menu page which contain items and their corresponding prices  and user can select item for ordering and submit the order and then  a non refreshable window open which shows the generated bill reciept .
+And also user can  view all its order that is placed till today with date and time stamp and complete order detail.
 Also menu database is customizable i.e multiple menu section or data can be add in further without any problem. for now i have only added drinks section.
 
 
